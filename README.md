@@ -1,5 +1,5 @@
 - 👋 Hola, somos @step4ward, un grupo de mentoras con experiencia en el sector tecnológico en España que queremos ayudarte a comenzar o seguir tu camino profesional dentro del mismo. 
-- 👀 Mas info en nuestra [web](https://step4ward.notion.site/step4ward/Bienvenidas-a-Step4ward-2b133826a10a4fc6a5bc7686605f6357)
+- 👀 Mas info en nuestra [web](https://step4ward.es/)
 - 💌 Conoce nuestro [LinkedIN](https://www.linkedin.com/company/step4ward-es)
 - 📖 Síguenos en nuestro [Twitter](https://twitter.com/Step4ward_ES)
 - 🎬 Ve nuestros vídeos en [Youtube](https://www.youtube.com/@step4ward_ES)
